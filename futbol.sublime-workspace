@@ -1,0 +1,1084 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sub",
+				"submitResponse"
+			],
+			[
+				"succ",
+				"successful"
+			],
+			[
+				"paym",
+				"paymentKey"
+			],
+			[
+				"vmA",
+				"vmAppSideNavigation"
+			],
+			[
+				"ob",
+				"observableArray"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"al",
+				"alignLeft"
+			],
+			[
+				"pro",
+				"product_id"
+			],
+			[
+				"_",
+				"_ajaxSettings"
+			],
+			[
+				"comi",
+				"comix_query_args  (variable)"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"comix",
+				"comixManifest"
+			],
+			[
+				"ap",
+				"append"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"wp_en",
+				"wp_enqueue_script"
+			],
+			[
+				"border-top",
+				"border-top-style"
+			],
+			[
+				"plugin",
+				"plugins_url"
+			],
+			[
+				"po",
+				"post_id"
+			],
+			[
+				"v",
+				"version	@version"
+			],
+			[
+				"att",
+				"attachment"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"at",
+				"attachment_ids"
+			],
+			[
+				"atta",
+				"attachment"
+			],
+			[
+				"attac",
+				"attachment_ids"
+			],
+			[
+				"wp",
+				"wp_upload_dir"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"funct",
+				"function"
+			],
+			[
+				"wp_enqueue_",
+				"wp_enqueue_script"
+			],
+			[
+				"upda",
+				"updated_description"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"post",
+				"posts_class"
+			],
+			[
+				"user_",
+				"user_query"
+			],
+			[
+				"bord",
+				"border-left"
+			],
+			[
+				"call",
+				"caller_state"
+			],
+			[
+				"caller",
+				"caller_state"
+			],
+			[
+				"locksmith_",
+				"locksmith_service"
+			],
+			[
+				"lock",
+				"locksmith"
+			],
+			[
+				"pr",
+				"product"
+			],
+			[
+				"rel",
+				"related_posts"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"produ",
+				"product_ids"
+			],
+			[
+				"ser",
+				"service_provider"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"ava",
+				"available_methods"
+			],
+			[
+				"av",
+				"available_methods"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"au",
+				"author	@author"
+			],
+			[
+				"has",
+				"hasClass	.hasClass"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"divider",
+				"dividerContactHeight"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"footer",
+				"footerOffset"
+			],
+			[
+				"si",
+				"sidebar"
+			],
+			[
+				"the_post",
+				"the_post_thumbnail"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"ext",
+				"extension"
+			],
+			[
+				"add",
+				"addClass	addClass"
+			],
+			[
+				"age",
+				"age-groups"
+			],
+			[
+				"acti",
+				"activities"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"termina",
+				"terminating_numbers"
+			],
+			[
+				"requ",
+				"require_once"
+			],
+			[
+				"are",
+				"area_lookup"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"orga",
+				"organizer_object"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"wp_",
+				"wp_query"
+			],
+			[
+				"temp",
+				"template"
+			],
+			[
+				"oemb",
+				"oembed_service"
+			],
+			[
+				"oem",
+				"oembed_service"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"wp_pa",
+				"wp_parse_args"
+			],
+			[
+				"app",
+				"apply_filters"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"wp_ene",
+				"wp_enqueue_style"
+			],
+			[
+				"wp_enqu",
+				"wp_enqueue_style"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"por",
+				"portfolio"
+			],
+			[
+				"test",
+				"test_post"
+			],
+			[
+				"wid",
+				"widget_name"
+			],
+			[
+				"curr",
+				"current_term"
+			],
+			[
+				"wp_enq",
+				"wp_enqueue_style"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"wp_arg",
+				"wp_parse_args"
+			],
+			[
+				"outp",
+				"output_html"
+			],
+			[
+				"out",
+				"output_html"
+			],
+			[
+				"arg",
+				"arg_list"
+			],
+			[
+				"ex",
+				"exclude_query"
+			],
+			[
+				"exc",
+				"exclude_ids"
+			],
+			[
+				"get_an",
+				"get_ancestor"
+			],
+			[
+				"menu",
+				"menue_list_pages"
+			],
+			[
+				"menue_",
+				"menue_title"
+			],
+			[
+				"Acti",
+				"activities"
+			],
+			[
+				"dire",
+				"directory-filterbar"
+			],
+			[
+				"user",
+				"user_info"
+			],
+			[
+				"update_post",
+				"update_post_meta"
+			],
+			[
+				"class",
+				"class_exists"
+			],
+			[
+				"con",
+				"contestant"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"applican",
+				"applicant_cat_filter"
+			],
+			[
+				"alig",
+				"alignleft"
+			],
+			[
+				"applica",
+				"applicant"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"align",
+				"alignright"
+			],
+			[
+				"application",
+				"application_args"
+			],
+			[
+				"clear",
+				"cleaned_term_ids"
+			],
+			[
+				"is_",
+				"is_array"
+			],
+			[
+				"in",
+				"inventory_rows"
+			],
+			[
+				"func",
+				"functions"
+			],
+			[
+				"arc",
+				"archive"
+			],
+			[
+				"remo",
+				"remote_image"
+			],
+			[
+				"image_",
+				"image_file"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"image",
+				"image_path"
+			],
+			[
+				"imag",
+				"image_folder"
+			],
+			[
+				"inv",
+				"inventory_file"
+			],
+			[
+				"inven",
+				"inventory_file"
+			],
+			[
+				"update_po",
+				"update_post_meta"
+			],
+			[
+				"manu",
+				"manufacturer_id"
+			],
+			[
+				"rsr",
+				"rsrgroup_cat_id"
+			],
+			[
+				"exp",
+				"explode"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"inde",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"tidy",
+				"HTMLPrettify: Set `node` Path"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"coffee",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"coffe",
+				"Coffee: Compile File"
+			],
+			[
+				"coff",
+				"Coffee: Lint"
+			],
+			[
+				"insat",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"int",
+				"File: New View into File"
+			],
+			[
+				"json",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"tid",
+				"Tidy PHP"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"set",
+				"Set Syntax: PHP"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/C8111813-0DD2-4581-93A7-AEFBDD56EBAC/template-api-user-login.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/E773F4D3-B260-4508-8055-D84625E603E5/tags.php",
+		"/Users/codearachnid/chestercomix/com.chestercomix.reader/www/js/app.js",
+		"/Users/codearachnid/chestercomix/com.chestercomix.reader/www/credits.html",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/39E71DC4-C0E1-41F0-8C2F-33B659802403/template-api-user-login.php",
+		"/Users/codearachnid/chestercomix/com.chestercomix.reader/www/css/app.css",
+		"/Users/codearachnid/chestercomix/com.chestercomix.reader/www/config.xml",
+		"/Users/codearachnid/chestercomix/com.chestercomix.reader/www/settings.html",
+		"/Users/codearachnid/chestercomix/com.chestercomix.reader/www/js/amplify.sqlite.js",
+		"/Users/codearachnid/chestercomix/com.chestercomix.reader/www/purchase.html",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/5EF50395-34F3-415E-BD86-9ABB4AF12A73/tags.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/BEA0E7B2-9E5A-41A3-8718-66607AEC077C/functions.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/D7E1F2B5-D89F-4273-A8B9-52D1AF0B4220/template-api-manifest.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/0F5487DA-0F9F-4BED-A8AA-0D314EB70B8A/template-api-user-context.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/19E13886-A3B7-475F-ACE8-D19D0C997C83/template-api-user-login.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/59794274-E4E1-47E3-976C-5FCA8D4AE326/Stripe.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/8AA45BD9-9FEC-46B6-9433-04108DD695A5/template-api-stripe-payment.php",
+		"/Users/codearachnid/chestercomix/com.chestercomix.reader/www/index.html",
+		"/Users/codearachnid/Dropbox/wordpress/gravityforms/license.txt",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/AC1115BD-AE01-4B1A-82F8-80827F484A08/custom.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/DEA7F70A-0819-49A2-BE92-3FB75BD86981/loop-page.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/AF6A11DA-41BB-4DF9-B053-95358BFF1335/custom.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/DD521C0B-B7A0-459C-9F88-B28F14C951C4/page-community_directory.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/70628DD5-DF11-44AD-85C2-748A20CF57C4/loop-page.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/4F3B1AD0-8DA1-48FA-8867-AC40D6E23EB2/functions.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/2A4C096C-022E-4FB2-A776-E690B5F1F969/template-api-sidebar.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/9CA6A655-F268-43C8-9B2F-010BE8A6E1F2/tags.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/8656C753-3C40-4C1C-AF67-0103222DC20A/template-api-user-context.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/4E7894A6-B4F4-4DE7-977E-B2B1EEEA5EE2/template-api-user-login.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/7FA68D13-0DD5-486F-B912-74EC0837749F/template-api-user-logout.php",
+		"/Users/codearachnid/Downloads/client_secrets.json",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/3DFED1D5-8D68-4C7C-86D1-65ABCFE6FF9B/functions-call-dispatch.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/C9536CB4-FBC0-4232-B56C-D8D3866A6AA2/test.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/86A40EA2-6CA2-490A-B6CD-D88D3C739B54/template-call-lookup.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/50663549-8CFE-4FB2-B8DF-1D72B169804D/template-call-lookup.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/25606B2B-7F98-45C3-BA22-4F95FE0A8E5D/functions-call-dispatch.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/0A559E9B-7C85-4EC9-BFFE-7FC8E4CD440E/test.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/AB8A07D5-AA14-41DF-8354-18F7677F5739/style.css",
+		"/Users/codearachnid/chestercomix/com.chestercomix.reader/www/feedback.html",
+		"/Users/codearachnid/chestercomix/com.chestercomix.reader/www/legal.html",
+		"/Users/codearachnid/chestercomix/com.chestercomix.reader/www/about.html",
+		"/Users/codearachnid/chestercomix/com.chestercomix.reader/www/author.html",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/BEAF6634-8F59-4EB9-ABB9-F93FBD84713F/functions.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/585561B8-B558-45B6-9EA4-C41A24027A28/template-api-user-login.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/BFC76468-0FDF-4937-AA40-BE91D792A3C7/taxonomy-velo-group.php",
+		"/Users/codearachnid/chestercomix/com.chestercomix.reader/www/bookshelf.html",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/92F5F1BC-CBB4-4DC3-845D-9BABCEED9030/functions-call-dispatch.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/D0FB71EE-1280-4AA6-9413-602FCA2A3455/template-call-lookup.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/0E34CB1E-61CA-4315-BE4D-3B5571829F39/style.css",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/60512DFC-F9C2-4710-BB29-1022D4A74590/tags.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/4F963F7A-CE5C-4B24-A543-121D55E56E4C/template-manifest.php",
+		"/Users/codearachnid/Desktop/knockout.extend/package.json",
+		"/Users/codearachnid/Desktop/knockout.extend/Gruntfile.js",
+		"/Users/codearachnid/Desktop/knockout.extend/lib/bindingHandlers.attrIf.js",
+		"/Users/codearachnid/Desktop/knockout.extend/lib/bindingHandlers.select2.js",
+		"/Users/codearachnid/Desktop/knockout.extend/lib/observableArray.distinct.js",
+		"/Users/codearachnid/Desktop/knockout.extend/lib/observableArray.pushAll.js",
+		"/Users/codearachnid/Desktop/knockout.extend/lib/observableArray.pushAt.js",
+		"/Users/codearachnid/Desktop/knockout.extend/lib/observableArray.totalVisible.js",
+		"/Users/codearachnid/Desktop/knockout.extend/knockout.extend.js",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/B9B88DD5-6C2E-49A7-8683-30797D8AFC4E/tags.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/F0E60459-F01B-47CF-B9A1-4B54B5FDBF96/template-manifest.php",
+		"/Users/codearachnid/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/4A76B388-EED2-49A7-A174-DC86DB64C6E8/chestercomix-plugin.php",
+		"/Users/codearachnid/chestercomix/com.chestercomix.reader/www/js/idangerous.swiper.min.js",
+		"/Users/codearachnid/chestercomix/com.chestercomix.reader/www/css/idangerous.swiper.css",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/31F98262-8DCA-4DC9-B4AF-950D13CDA136/template-manifest.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/D60C0D84-15CE-45C3-A476-C5D4C242CC0C/temp.css",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/84547716-531B-477A-BB9E-7905F4A2BBB3/wp-config.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/012914A6-AB26-41D3-9491-C1ED149385DE/functions.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/9F127EBB-02DF-4E77-9BB3-B3DD2C4B252F/template-temp.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/3422555E-0A66-4FB8-90EA-33EA942280C1/index.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/B5176D60-9320-426E-8C63-DF80C1D5737A/page.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/5D045C2A-EE2C-4767-A506-9979865101E6/style.css",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/08BB897A-BE10-42AD-9953-9DE00EECC0D3/style.css",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/8BF4ABA6-B4DC-42F2-BEE1-F6120BCDB43D/suite-page.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/AB47D5A1-3025-4B3A-9608-50020409493D/single-contest.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/36BD2BE8-0F83-419D-8CE9-61C97153943D/homepage.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/3C266EE0-47D9-4A5B-B333-56BE3F18EDF5/theme.css",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/CC7F0846-D0F9-4860-B393-982C3156396A/wp-themer.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/5E7C8074-DB22-4DBD-ABDE-018A2684C326/slider.js",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/09B5F611-1D23-4688-AC67-EA7D54E0B66B/meta-pro.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/42D34A8A-A949-4E0A-BEEF-CB4F43BF7E0A/theme-template.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/52118D4E-71D5-4E60-BDE7-764F44F8EFA6/wp-themer.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/795D85A8-A9E1-43C6-A06A-569FD7FAD13A/introduction.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/09AA8204-A869-4287-A4F4-712B0E38038A/functions.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/69E70C1A-8420-4D02-8AE4-7EA43E981B36/theme-plugin-integrations.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/F6EEF816-36AE-48E4-B9E6-581838567C44/theme.css",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/18E5401D-710F-43AC-8366-202155C15186/theme-functions.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/66BF7A3B-0B58-4167-A61D-0F5572DE3050/footer.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/69478561-AAEE-4B32-AB1C-9052DE10571C/footer.php",
+		"/Users/codearachnid/chestercomix/com.chestercomix.reader/certs/unlock.pass",
+		"/Users/codearachnid/chestercomix/com.chestercomix.reader/unlock.pass",
+		"/Users/codearachnid/chestercomix/com.chestercomix.reader/p12check.pass",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/BCFCB1BA-790B-42D0-8271-D3D8C2993374/core.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/B0563354-DF89-4FEA-B240-C3B0FCE95B6D/content-call-list.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/6BEA6646-C87E-4396-B67A-C6D4669AAD21/content-call.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/D532D421-F60F-4F35-92A8-99C4454D8E36/SMG_Insights.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/03126D8B-C2E4-47B5-95C2-00F5CC70643A/SMG_Insights.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/AFAF94E7-1863-4143-9003-AC8F60EA0DC6/SMG_Twilio.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/A9DFC431-BDAC-4843-B4F0-4630CE12BBB6/chestercomix-plugin.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/DC41BFE3-D030-4016-A0C1-6481B611A536/admin.js",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/5CC3C1FB-7F4A-433B-B448-B57C26725F59/app.css",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/D9D9A41F-B21A-41B7-8161-08547A6999E0/template-comix.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/D6480E96-6791-404A-A867-347F4A7B29B8/framework.php",
+		"/Users/codearachnid/Downloads/upme/manual.txt",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/A02604EF-5977-410E-85C0-0483D137DD4E/template-account.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/3E2BD52F-2A6C-47FA-A723-236B0B220E6B/content-account.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/87A5ADF6-7129-48BE-A681-F08DF852F245/style.css",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/AADEDA92-66CB-4790-AF7B-0B30F819EB39/tags.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/BBC19B9C-17C0-494D-8D01-E7BBBB24B898/app.css",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/C17686EC-327A-4D24-8341-70C1270B85A1/template-comix.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/C5B69A33-48DD-4553-A07A-7B949E56CECC/template-comix.php",
+		"/Users/codearachnid/chestercomix/com.chestercomix.reader/www/js/methods.js",
+		"/Users/codearachnid/Downloads/Authorize-net-security-icon.txt",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/1A7738BF-4318-41B4-BF07-2B24F8B2A859/core.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/3729DBAA-3B80-4F18-B2D1-07EBD5819F25/SMG_Call.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/0BE4E772-ACE7-4414-B626-80906D3892FC/SMG_Init.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/B8D3D093-CC08-41A9-925B-65C76ECF5E64/cleanup.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/AEC928BA-3F08-4216-9EA3-5A37BC4741DA/SMG_Init.php",
+		"/Users/codearachnid/Downloads/smg-framework/class/SMG_Call.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/634A898B-921F-404F-898A-A67CC1F2C42A/SMG_Call.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/9A024678-0E73-4918-A5FB-7E6743B344E6/core.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/29344DA7-33B0-46F9-AB5E-CF49D599BA08/WC_SMG.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/67F5A2C7-59A0-47B0-A9F1-CEF9B59D8709/SMG_Users.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/EECF17DB-2402-4FC4-B107-30C7BD4F63E4/SMG_Init.php",
+		"/Users/codearachnid/Downloads/smg-framework/class/SMG_Init.php",
+		"/Users/codearachnid/Downloads/smg-framework/_smg-init.php"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/codearachnid/chestercomix/com.chestercomix.reader/www",
+			"/Users/codearachnid/Downloads/smg-framework",
+			"/Users/codearachnid/Downloads/8x8",
+			"/Users/codearachnid/Downloads/smg-framework",
+			"/Users/codearachnid/wp_dev",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/the-events-calendar",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/wp-smtp",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/gravity-forms-pdf-extended",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/gravityforms",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/seriesengine_plugin",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/woocommerce",
+			"/Users/codearachnid/wp_dev",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/woocommerce",
+			"/Users/codearachnid/wp_dev",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/woocommerce",
+			"/Users/codearachnid/wp_dev",
+			"<open files>",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/woocommerce",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/woocommerce/templates",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/woocommerce",
+			"/Users/codearachnid/wp_dev/wp-content/themes/canvas",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/woocommerce",
+			"/Users/codearachnid/Downloads/woocommerce-branding",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/wpallimport",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/wpai-woocommerce-add-on",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/woocommerce",
+			"/Users/codearachnid/Downloads/sendpress-pro",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/woocommerce,<open files>",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/woocommerce",
+			"/Users/codearachnid/wp_dev/wp-content/themes/canvas",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/woocommerce",
+			"/Users/codearachnid/Dropbox/wordpress/core",
+			"/Users/codearachnid/wp_dev/wp-content/themes/canvas",
+			"/Users/codearachnid/Dropbox/wordpress/core",
+			"/Users/codearachnid/wp_dev/wp-content/themes/canvas",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/gravityforms",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/events",
+			"/Users/codearachnid/Dropbox/wordpress/core",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/woocommerce",
+			"/Users/codearachnid/Dropbox/wordpress/core",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/woocommerce",
+			"/Users/codearachnid/Dropbox/wordpress/core",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/woocommerce",
+			"/Users/codearachnid/theboatworksnews/wp-content/plugins/taxonomies-filter-widget",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/gravityforms",
+			"/Users/codearachnid/Dropbox/wordpress/core",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/gravityforms",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/woocommerce",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/woocommerce-save-for-later",
+			"/Users/codearachnid/Dropbox/wordpress/core",
+			"/Users/codearachnid/Downloads/woocommerce-smart-coupons",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/woocommerce",
+			"/Users/codearachnid/Downloads/woocommerce-smart-coupons",
+			"/Users/codearachnid/Dropbox/wordpress/core",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/woocommerce",
+			"/Users/codearachnid/ie-rva/wp-content/themes/organic_bold_red",
+			"/Users/codearachnid/ie-rva/wp-content/plugins/gravityforms",
+			"/Users/codearachnid/Dropbox/wordpress/core",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/advanced-custom-fields",
+			"/Users/codearachnid/Dropbox/wordpress/core",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/woocommerce",
+			"/Users/codearachnid/Dropbox/wordpress/core",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/woocommerce",
+			"/Users/codearachnid/Dropbox/wordpress/core",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/woocommerce",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/woocommerce-brands",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/woocommerce",
+			"/Users/codearachnid/Dropbox/wordpress/core",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/woocommerce",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/woocommerce-import-rsrgroup",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/woocommerce-save-for-later",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/wp-plugin-framework",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/woocommerce-save-for-later",
+			"/Users/codearachnid/Dropbox/wordpress/core",
+			"/Users/codearachnid/wp_dev/wp-content/plugins/woocommerce"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"liszt",
+			"deviceMode",
+			"successfulPurchase",
+			"purchase",
+			"checkAuthentication",
+			"uuid",
+			"get_user_id_by_UUID",
+			"testbrowser",
+			"user_owns",
+			"settings",
+			"clear",
+			"checkAuthentication",
+			"sqlite",
+			"setting",
+			"sidebar",
+			"logout",
+			"text: content",
+			"credit",
+			"sqlite",
+			"indicator",
+			"index.tml",
+			"gotoComixPage",
+			"the_title",
+			"$geocoder",
+			"$geocod",
+			"$geocoder",
+			"key",
+			"payment_id",
+			"vmAppSideNavigation",
+			"app-flyout-panel",
+			"deviceMode",
+			"UUID",
+			"debugMode",
+			"b0",
+			"get_user_id_by_UUID",
+			"logout",
+			"randomize_locksmith",
+			"alignright",
+			"vmPurchase",
+			"purchase",
+			"checkLoaded",
+			"bookshelf",
+			"device.",
+			"content",
+			"pagination",
+			"slidesInDOM",
+			"comicZip",
+			"loading",
+			"click",
+			"nav",
+			"isNormalInteger",
+			"base64_encode",
+			"post_type_link",
+			"call",
+			"roles",
+			"console.",
+			"stored",
+			"getFileExtension",
+			"Base64",
+			"screenpop",
+			"WOO_REMOVE_QTY_VERSION",
+			"open",
+			"user",
+			"function wp_get_attachment_image",
+			"wp_get_attachment_image",
+			"ajaxurl",
+			"ajax",
+			"some errors",
+			"wp_mail",
+			"wp_admin",
+			"wp_mail",
+			"gfpdfe_create_and_attach_pdf",
+			"do_notification",
+			"attachment",
+			"mail",
+			"wp_mail",
+			"send",
+			"send_notification",
+			"prepare_user_notification",
+			"gform_user_notification_attachments",
+			"notification",
+			"prepare_user_notification",
+			"gform_user_notification_attachments",
+			"gform_notification_subject",
+			"validate_notification",
+			"gform_notification_subject",
+			"enqueue_admin_scripts",
+			"subview",
+			"notification_ui_settings",
+			"output",
+			"GFFormSettings",
+			"notification_ui_settings",
+			"get_notification_ui_settings",
+			"notification_ui_settings",
+			"get_notification_ui_settings",
+			"ui_settings",
+			"message",
+			"Send to Email",
+			"enm_seriesengine_messages_page",
+			"token_reason",
+			"test_zoho_api",
+			"test",
+			"gf2zoho_create_token",
+			"_token_",
+			"_token",
+			"token_fun",
+			"gf2zoho_create_token",
+			"gf2zoho_password",
+			"test_zoho_api",
+			"test_api",
+			"gf2z",
+			"test_api_connection",
+			"password-saved",
+			"a password is saved",
+			"gf2zoho_create_token",
+			"encountered an ERROR. Try again!",
+			"test_zoho_api",
+			"test_conn",
+			"wp_remote_post",
+			"enm_seriesengine_messages_page",
+			"do_action",
+			"message_description",
+			"enmse_description",
+			"Edit Message",
+			"enmse_action",
+			"enm_seriesengine_series_page",
+			"page",
+			"prettyPhoto"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"wp_5jrws8_",
+			"( 2597,",
+			"( 2598,",
+			"( 2599,",
+			" ",
+			".divider-contact",
+			"#de7126",
+			"age",
+			"/Users/codearachnid/Documents/VCTF/images/",
+			"/Users/codearachnid/Documents/VCTF/shapefiles/",
+			"/Users/codearachnid/Dropbox/land of yogg/VCTF/mapbox/shapefiles/",
+			"/Users/codearachnid/Dropbox/land of yogg/VCTF/mapbox/shapefiles",
+			"big_facet",
+			"big_facet_",
+			"community-activities",
+			"array(",
+			":",
+			"rsrgroup"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "futbol.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
