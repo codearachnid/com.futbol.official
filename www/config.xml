@@ -46,7 +46,7 @@
         <true/>
     </gap:config-file> -->
     <!-- <preference name="WebViewBounce" value="true" /> -->
-    <!-- <gap:platform name="android" /> -->
+    <gap:platform name="android" />
     <!-- <gap:platform name="ios" /> -->
     <!-- <preference name="target-device" value="universal"/> -->
     <!-- <preference name="splashscreen" value="splash.png" /> -->
